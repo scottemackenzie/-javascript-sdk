@@ -16,6 +16,6 @@ http://jsfiddle.net/wuchubuzai/FbEgE/ -- Load the API with the SEARCH argument a
 http://jsfiddle.net/wuchubuzai/dYL9C/ -- Authenticate with username/password to obtain rest_key and other information from authentication
 
 A two step example is now available, which first Authenticates and then makes a second request with valid UID and RestKey to retrieve a list of "user_counters":
-http://jsfiddle.net/wuchubuzai/ZU7Tu/
+http://jsfiddle.net/wuchubuzai/tBuuw/
 
 © wuchubuzai | 无处不在 2013
