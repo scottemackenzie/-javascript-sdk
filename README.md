@@ -18,4 +18,4 @@ http://jsfiddle.net/wuchubuzai/d2fGq/ -- Authenticate with username/password to 
 A two step example is now available, which first Authenticates and then makes a second request with valid UID and RestKey to retrieve a list of "user_counters":
 http://jsfiddle.net/wuchubuzai/ZU7Tu/
 
-© wuchubuzai | 无处不在 2011
+© wuchubuzai | 无处不在 2013
